@@ -1,5 +1,5 @@
 # 💜 Para o Amor da Minha Vida
-*link*: https://lucas2k23.github.io/Homenagem_Namorada/
+*link*: (https://lucasana.netlify.app)
 
 Um projeto especial e cheio de carinho, feito com HTML, Tailwind CSS e JavaScript Vanilla para comemorar **1 ano de namoro**.  
 Essa página reúne fotos, uma música romântica e uma mensagem para a pessoa mais especial da minha vida. ✨
