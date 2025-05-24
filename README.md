@@ -32,16 +32,11 @@ Essa página reúne fotos, uma música romântica e uma mensagem para a pessoa m
 
 Clone o repositório:
 
-bash
-Copiar
-Editar
-git clone https://github.com/Lucas2k23/amor-da-minha-vida.git
+''bash
+git clone https://github.com/Lucas2k23/Homenagem-Namorada.git
 Coloque suas fotos na pasta fotos/, sua música em mp3/ e o vídeo em videos/.
 
 Abra index.html em qualquer navegador moderno.
-
-📸 Pré-visualização
-Adicione aqui uma imagem ou gif do projeto rodando (ex: captura de tela da galeria ou animação dos corações).
 
 ❤️ Dedicatória
 “Você foi a melhor escolha da minha vida, e sem você tudo perde o brilho. Feliz 1 ano de namoro pra nós, meu amor!”
