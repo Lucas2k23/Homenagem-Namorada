@@ -33,7 +33,7 @@ Essa página reúne fotos, uma música romântica e uma mensagem para a pessoa m
 Clone o repositório:
 
 ''bash
-git clone https://github.com/Lucas2k23/Homenagem-Namorada.git
+git clone https://github.com/Lucas2k23/Homenagem_Namorada.git
 Coloque suas fotos na pasta fotos/, sua música em mp3/ e o vídeo em videos/.
 
 Abra index.html em qualquer navegador moderno.
